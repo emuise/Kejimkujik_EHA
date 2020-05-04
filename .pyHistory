@@ -1,0 +1,9 @@
+﻿asda
+where python
+import sys,numpy,matplotlib
+print(sys.version, numpy.__version__, matplotlib.__version__)
+print(sys.version, numpy.version, matplotlib.version)
+print(numpy.version)
+print(numpy.__version__, matplotlib.__version__)
+import pysal
+pysal
